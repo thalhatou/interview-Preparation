@@ -100,5 +100,4 @@ function findName(array) {
 
 findName(name)
 
-    ||||
-    ////
+ 
