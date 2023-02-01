@@ -1,0 +1,23 @@
+{
+  "name": "interview-preparation",
+  "version": "1.0.0",
+  "description": "# Here is a list of resources that can help you prepare for a coding interview:",
+  "main": "performance.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thalhatou/interview-Preparation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thalhatou/interview-Preparation/issues"
+  },
+  "homepage": "https://github.com/thalhatou/interview-Preparation#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
